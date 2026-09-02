@@ -1,5 +1,22 @@
 # Image Activity
 
+## Requirements
+
+- Python 3.12 or newer
+- [uv](https://docs.astral.sh/uv/)
+
+## Getting Started
+
+Install all Python packages:
+```
+uv sync --all-packages
+```
+
+Run the program:
+```
+uv run -m image_activity
+```
+
 ## Academic Integrity
 
 This project was made for my graphics course. You are welcome to study the source, take inspiration
