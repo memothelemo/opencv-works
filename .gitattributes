@@ -1,0 +1,2 @@
+# This will prevent Git from doing CRLF to LF conversions with these files
+*.jpg binary

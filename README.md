@@ -30,3 +30,8 @@ your institution's academic integrity rules. **Passing off this project, or a li
 ## License
 
 This project is licensed under the [MIT License](LICENSE.txt).
+
+The example image [`assets/kelpie.jpg`](./assets/kelpie.jpg) included in this repository is created by
+Pleple2000 on [Wikimedia](https://commons.wikimedia.org/wiki/File:Australien_Kelpie.jpg) and licensed
+under [Creative Commons Attribution-Share Alike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.en)
+license.
