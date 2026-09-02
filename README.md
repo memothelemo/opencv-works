@@ -1,4 +1,4 @@
-# Image Activity
+# Template
 
 ## Requirements
 
@@ -14,7 +14,7 @@ uv sync --all-packages
 
 Run the program:
 ```
-uv run -m image_activity
+uv run -m template
 ```
 
 ## Academic Integrity

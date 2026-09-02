@@ -1,7 +1,7 @@
 [project]
-name = "image-activity"
+name = "template"
 version = "0.1.0"
-description = "Loads, displays, and saves an image"
+description = "Template"
 readme = "README.md"
 authors = [
     { name = "memothelemo", email = "dev@memothelemo.xyz" }
@@ -12,7 +12,7 @@ dependencies = [
 ]
 
 [project.scripts]
-image-activity = "image_activity:main"
+template = "template:main"
 
 [build-system]
 requires = ["uv_build>=0.12.5,<0.13.0"]
