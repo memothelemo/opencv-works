@@ -1,7 +1,7 @@
 [project]
-name = "template"
+name = "webcam-viewer"
 version = "0.1.0"
-description = "Template"
+description = "Loads, displays, and saves video from a webcam"
 readme = "README.md"
 authors = [
     { name = "memothelemo", email = "dev@memothelemo.xyz" }
@@ -12,7 +12,7 @@ dependencies = [
 ]
 
 [project.scripts]
-template = "template:main"
+webcam_viewer = "webcam_viewer:main"
 
 [build-system]
 requires = ["uv_build>=0.12.5,<0.13.0"]
