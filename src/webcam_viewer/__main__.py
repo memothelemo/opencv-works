@@ -1,6 +1,5 @@
 import cv2
 import sys
-import time
 
 # Opens a capture video from a default video capture device
 #
