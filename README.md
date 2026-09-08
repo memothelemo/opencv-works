@@ -1,4 +1,4 @@
-# Template
+# The Video Mirror
 
 ## Requirements
 

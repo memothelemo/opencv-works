@@ -1,7 +1,7 @@
 [project]
 name = "video-mirror"
 version = "0.1.0"
-description = "Template"
+description = "Creates a flipped (mirrored) copy of a short video."
 readme = "README.md"
 authors = [
     { name = "memothelemo", email = "dev@memothelemo.xyz" }
