@@ -1,5 +1,5 @@
 [project]
-name = "template"
+name = "webcam-recorder"
 version = "0.1.0"
 description = "Template"
 readme = "README.md"
@@ -12,7 +12,7 @@ dependencies = [
 ]
 
 [project.scripts]
-template = "template:main"
+webcam_recorder = "webcam_recorder:main"
 
 [build-system]
 requires = ["uv_build>=0.12.5,<0.13.0"]
