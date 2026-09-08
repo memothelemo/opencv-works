@@ -1,4 +1,4 @@
-# Image Activity
+# JPG to PNG
 
 ## Requirements
 
@@ -14,7 +14,7 @@ uv sync --all-packages
 
 Run the program:
 ```
-uv run -m image_activity
+uv run -m jpg_to_png
 ```
 
 ## Academic Integrity
