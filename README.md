@@ -1,7 +1,7 @@
 # Webcam Capture & Basic GUI
 
 A program that allows to press a key to start recording a 15-second video from the user's webcam
-and save as an MP4 file with AVI encoding.
+and save as an MP4 file with Xvid codec.
 
 ## Requirements
 
