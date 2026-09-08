@@ -19,6 +19,10 @@ if image is None:
     print(f"[x] Failed to load image at: {IMAGE_PATH}!")
     sys.exit(1)
 
+# Apply the photobomber effect :D (170x240 patch)
+my_roi = image[3:243, 8:178]
+image[43:283, 255:425] = my_roi
+
 # Writes the loaded image into the IMAGE_DEST variable.
 print("[/] Saved image at saved_image.png")
 cv2.imwrite(root_path / "saved_image.png", image)

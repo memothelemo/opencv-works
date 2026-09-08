@@ -1,4 +1,7 @@
-# JPG to PNG
+# Digital Photobomber
+
+Creates an image and use array slicing to copy a small part onto multiple other positions in the
+same thing.
 
 ## Requirements
 
@@ -14,7 +17,7 @@ uv sync --all-packages
 
 Run the program:
 ```
-uv run -m jpg_to_png
+uv run -m digital_photobomber
 ```
 
 ## Academic Integrity

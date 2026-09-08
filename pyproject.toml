@@ -1,7 +1,7 @@
 [project]
-name = "jpg-to-png"
+name = "digital-photobomber"
 version = "0.1.0"
-description = "Converts JPG image to PNG image"
+description = "Creates an image and use array slicing to copy a small part onto multiple other positions in the same thing."
 readme = "README.md"
 authors = [
     { name = "memothelemo", email = "dev@memothelemo.xyz" }
@@ -12,7 +12,7 @@ dependencies = [
 ]
 
 [project.scripts]
-jpg_to_png = "jpg_to_png:main"
+digital_photobomber = "digital_photobomber:main"
 
 [build-system]
 requires = ["uv_build>=0.12.5,<0.13.0"]
