@@ -1,4 +1,5 @@
 # Video files
+/extracted_frames
 *.mp4
 
 # Python

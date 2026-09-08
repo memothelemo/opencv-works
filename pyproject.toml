@@ -1,7 +1,7 @@
 [project]
-name = "video-mirror"
+name = "frames-extractor"
 version = "0.1.0"
-description = "Creates a flipped (mirrored) copy of a short video."
+description = "Extracts video frames from an input video."
 readme = "README.md"
 authors = [
     { name = "memothelemo", email = "dev@memothelemo.xyz" }
@@ -12,7 +12,7 @@ dependencies = [
 ]
 
 [project.scripts]
-video_mirror = "video_mirror:main"
+frames_extractor = "frames_extractor:main"
 
 [build-system]
 requires = ["uv_build>=0.12.5,<0.13.0"]
