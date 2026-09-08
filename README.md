@@ -4,6 +4,7 @@
 
 - Python 3.12 or newer
 - [uv](https://docs.astral.sh/uv/)
+- `input.mp4` — video input for the program
 
 ## Getting Started
 
@@ -14,7 +15,7 @@ uv sync --all-packages
 
 Run the program:
 ```
-uv run -m template
+uv run -m video_mirror
 ```
 
 ## Academic Integrity

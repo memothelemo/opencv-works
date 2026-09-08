@@ -1,3 +1,6 @@
+# Video files
+*.mp4
+
 # Python
 /.venv
 __pycache__/
